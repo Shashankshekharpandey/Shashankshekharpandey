@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Shekhar Pandey</h1>
-<h3 align="center">I am a Data Scientist.</h3>
+<h3 align="center">I am a python developer and a Data Science Enthusiast.</h3>
 
 - 🌱 I’m currently learning **Machine Learning and A.I**
 
