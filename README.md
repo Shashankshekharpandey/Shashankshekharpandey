@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3 align="center">  My name is Shashank Shekhar Pandey and i’m currently learning Machine Learning and A.I</h3>
+<h3 align="center">  My name is Shashank Shekhar Pandey and i’m a Data Scientist</h3>
 
-- I am a Python Developer and a Data Science Enthusiast.
+- I am a ML Developer and a Data Science Enthusiast.
 
 - 💬 Ask me about **Anything**
 
