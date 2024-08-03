@@ -1,13 +1,13 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 💫 About Me:
-<h3 align="center">  My name is Shashank Shekhar Pandey</h3>
-👨‍💻 Data scientist, passionate about ML and DL.
-🌐 Currently working on full-stack projects with LLMs and vector databases.
-📊 Passionate about real-world data impact.
-🎓 MBA- Data analytics and intelligence.
-💡 Creative problem solver, entrepreneurial mindset.
-🚀 Let's explore data science together!
+<h3 align="center">  My name is Shashank Shekhar Pandey</h3><br>
+👨‍💻 Data scientist, passionate about ML and DL.<br>
+🌐 Currently working on full-stack projects with LLMs and vector databases.<br>
+📊 Passionate about real-world data impact.<br>
+🎓 MBA- Data analytics and intelligence.<br>
+💡 Creative problem solver, entrepreneurial mindset.<br>
+🚀 Let's explore data science together!<br>
 
 - 💬 Ask me about **Data science**
 
