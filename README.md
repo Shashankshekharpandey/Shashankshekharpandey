@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 💫 About Me:
-👨‍💻 Data scientist, passionate about ML and DL.<br>
+👨‍💻 Data scientist, passionate about ML and Artificial Intelligence.<br>
 🌐 Currently working on full-stack projects with LLMs and vector databases.<br>
 📊 Passionate about real-world data impact.<br>
 🎓 MBA- Data analytics and intelligence.<br>
